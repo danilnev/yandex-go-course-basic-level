@@ -45,7 +45,7 @@ func main() {
 			continue
 
 		case "конец":
-			break
+			continue
 
 		}
 
